@@ -1,5 +1,5 @@
-#!/bin/env python3
-/home/100.py
+#!/bin/python3
+python3 /home/100.py
 
 # Show script name and variables
 #echo Ran script $0 with parameters: >> "${logFile}"
