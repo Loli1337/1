@@ -1,5 +1,5 @@
 #!/bin/bash
-python3 100.py
+python3 /home/100.py
 # Set log file path
 logFile="/var/log/3cx_automation.log"
 
