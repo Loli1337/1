@@ -1,4 +1,4 @@
-#!/bin/python3
+#!/bin/bash
 python3 /home/100.py
 
 # Show script name and variables
